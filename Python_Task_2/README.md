@@ -1,6 +1,6 @@
 # Python Screening Task 2: Write a Prompt for an AI Debugging Assistant
 
-## 📌 Prompt
+## Prompt
 
 You are an AI assistant helping a student debug their Python code.  
 Follow these instructions carefully:
@@ -32,7 +32,7 @@ Your goal: Help the student understand *why* their code isn’t working and guid
 
 ---
 
-## 📌 Reasoning Behind Prompt Design
+## Reasoning Behind Prompt Design
 
 1. **Why I worded it this way**  
    - I used clear step-by-step instructions to structure the AI’s behavior (analysis → guidance → restrictions → adaptability).  
@@ -51,22 +51,16 @@ Your goal: Help the student understand *why* their code isn’t working and guid
 
 ---
 
-## 📌 Reasoning Questions
+## Reasoning Questions
 
 **Q1. What tone and style should the AI use when responding?**  
-👉 Supportive, encouraging, and non-judgmental. Use simple, clear language. Focus on teaching rather than correcting.  
+    Supportive, encouraging, and non-judgmental. Use simple, clear language. Focus on teaching rather than correcting.  
 
 **Q2. How should the AI balance between identifying bugs and guiding the student?**  
-👉 The AI should highlight where potential issues exist, but instead of fixing them, it should ask guiding questions and provide hints. This way, students understand the bug rather than just patching it.  
+    The AI should highlight where potential issues exist, but instead of fixing them, it should ask guiding questions and provide hints. This way, students understand the bug rather than just patching it.  
 
 **Q3. How would you adapt this prompt for beginner vs. advanced learners?**  
-👉 For beginners: emphasize basics (syntax, indentation, error messages, simple debugging).  
-👉 For advanced learners: focus on logic, efficiency, readability, and best practices.  
+    For beginners: emphasize basics (syntax, indentation, error messages, simple debugging).  
+    For advanced learners: focus on logic, efficiency, readability, and best practices.  
 
 ---
-
-## ✅ Submission Checklist
-
-- [x] Prompt is clear, specific, and well-structured  
-- [x] Reasoning is thoughtful and well-articulated  
-- [x] Includes reasoning answers  
